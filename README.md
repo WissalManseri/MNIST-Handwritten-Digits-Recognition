@@ -1,4 +1,5 @@
 # MNIST Handwritten Digits Recognition
+
 This program uses a convolutional neural network (CNN) to recognize handwritten digits from the MNIST dataset. 
 The CNN is implemented using the Keras library, and the program is written in Python.
 
